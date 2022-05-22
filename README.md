@@ -1,2 +1,12 @@
-# covid--19-Tracker-app-
-Coronavirus (COVID-19) Tracker App for Live Update of corona. • Fully dynamic App display the live update of cases that fetch data from API’s • Technologies used Android Development in Java, fetch data from API’s , Volley Library , Object-Oriented Programming
+# COVID-19 Tracker Android App 
+Coronavirus (COVID-19) Tracker App Using REST API & Volley Library
+
+# Screenshots 
+<p float="left">
+ <img src="https://github.com/arsltech/COVID-19Tracker/blob/master/image1.jpg" width="200" height="400" />
+<img src="https://github.com/arsltech/COVID-19Tracker/blob/master/image2.jpg" width="200" height="400" />
+<img src="https://github.com/arsltech/COVID-19Tracker/blob/master/image3.jpg" width="200" height="400" />
+
+</p>
+
+
